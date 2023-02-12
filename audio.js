@@ -1,179 +1,178 @@
 Amplitude.init({
    "songs":[
       {
-         "name":"Eby'endya",
+         "name":"Obubaka obukwata ku byobulamu ku kwegatta ne okuzaala",
          "url":"./audio/001.mp3",
-         "source": "TPO Uganda",
-         "source_url": "https://tpoug.org/"
+         "source": "Shetechtive Uganda",
+         "source_url": "https://www.shetechtive.org/"
       },
 
       {
-         "name":"Omugaso gwa okulya bulungi",
          "url":"./audio/002.mp3",
          "source": "TPO Uganda",
          "source_url": "https://tpoug.org/"
       },
       {
-         "name":"Endya ennungi kitegeza ki ?",
+         "name":"Obulamu obulungi bulabika butya ? ",
          "url":"./audio/003.mp3",
-         "source": "TPO Uganda",
-         "source_url": "https://tpoug.org/"
+         "source": "Shetechtive Uganda",
+         "source_url": "https://www.shetechtive.org/"
       },
       {
          "name":"Emmere jentekeddwa okulya bulijo",
          "url":"./audio/004.mp3",
-         "source": "TPO Uganda",
-         "source_url": "https://tpoug.org/"
+         "source": "Shetechtive Uganda",
+         "source_url": "https://www.shetechtive.org/"
       },
       {
-         "name":"Bikulu ki mu kuziyiza endwadde byenetagga ?",
+         "name":"Oburwadde bwa ekikaba keki ?",
          "url":"./audio/005.mp3",
-         "source": "TPO Uganda",
-         "source_url": "https://tpoug.org/"
+         "source": "Shetechtive Uganda",
+         "source_url": "https://www.shetechtive.org/"
       },
       {
-         "name":"Nkola ntya okulaba nti nfuna omusayi ogumala ?",
+         "name":"Obukodyo bwa okuziyiza endwadde za ekikaba",
          "url":"./audio/006.mp3",
-         "source": "TPO Uganda",
-         "source_url": "https://tpoug.org/"
+         "source": "Shetechtive Uganda",
+         "source_url": "https://www.shetechtive.org/"
       },
       {
-         "name":"Nkola ntya okulaba nti nina folic acid amala ?",
+         "name":"AIDs oba Akalwadde ka mukenenya  kye ki ? ",
          "url":"./audio/007.mp3",
-         "source": "TPO Uganda",
-         "source_url": "https://tpoug.org/"
+         "source": "Shetechtive Uganda",
+         "source_url": "https://www.shetechtive.org/"
       },
       {
-         "name":"Nkola ntya okulaba nti nina calcium amala ?",
+         "name":"Engeri josobola okwetanga akawuka akaleta mukenenya",
          "url":"./audio/008.mp3",
-         "source": "TPO Uganda",
-         "source_url": "https://tpoug.org/"
+         "source": "Shetechtive Uganda",
+         "source_url": "https://www.shetechtive.org/"
       },
       {
-         "name":"Nkola ntya okulaba nti nina iodine amala ?",
+         "name":"Engeri entuufu eya okukozesaamu kondomu oba obupiira",
          "url":"./audio/009.mp3",
-         "source": "TPO Uganda",
-         "source_url": "https://tpoug.org/"
+         "source": "Shetechtive Uganda",
+         "source_url": "https://www.shetechtive.org/"
       },
       {
-         "name":"Nkobola ntya okukola ekyokunywa kya iodine ?",
+         "name":"Engeri entuufu eya okukozesaamu kondomu oba obupiira - step 1",
          "url":"./audio/010.mp3",
-         "source": "TPO Uganda",
-         "source_url": "https://tpoug.org/"
+         "source": "Shetechtive Uganda",
+         "source_url": "https://www.shetechtive.org/"
       },
       {
-         "name":"Nkakasa ntya nti nina ekirungo kya Vitamin A ?",
+         "name":"Engeri entuufu eya okukozesaamu kondomu oba obupiira - step 2",
          "url":"./audio/011.mp3",
-         "source": "TPO Uganda",
-         "source_url": "https://tpoug.org/"
+         "source": "Shetechtive Uganda",
+         "source_url": "https://www.shetechtive.org/"
       },
       {
-         "name":"Nsobola ntya okulya obulungi naye nga nsasanya kitono ?",
+         "name":"Engeri entuufu eya okukozesaamu kondomu oba obupiira - step 3",
          "url":"./audio/012.mp3",
-         "source": "TPO Uganda",
-         "source_url": "https://tpoug.org/"
+         "source": "Shetechtive Uganda",
+         "source_url": "https://www.shetechtive.org/"
       },
       {
-         "name":"Biki ebikwatagana n'ebyokulya eby'obulabe ?",
+         "name":"Engeri entuufu eya okukozesaamu kondomu oba obupiira - step 4",
          "url":"./audio/013.mp3",
-         "source": "TPO Uganda",
-         "source_url": "https://tpoug.org/"
+         "source": "Shetechtive Uganda",
+         "source_url": "https://www.shetechtive.org/"
       },
       {
-         "name":"Endya embi eyinza okuleta ntya endwadde ?",
+         "name":"Engeri entuufu eya okukozesaamu kondomu oba obupiira - step 5",
          "url":"./audio/014.mp3",
-         "source": "TPO Uganda",
-         "source_url": "https://tpoug.org/"
+         "source": "Shetechtive Uganda",
+         "source_url": "https://www.shetechtive.org/"
       },
       {
-         "name":"Okuggwa'mu omusayi kye'ki ?",
+         "name":"Engeri entuufu eya okukozesaamu kondomu oba obupiira - step 6",
          "url":"./audio/015.mp3",
-         "source": "TPO Uganda",
-         "source_url": "https://tpoug.org/"
+         "source": "Shetechtive Uganda",
+         "source_url": "https://www.shetechtive.org/"
       },
       {
-         "name":"Biki ebireta anaemia ?",
+         "name":"Engeri entuufu eya okukozesaamu kondomu oba obupiira - step 7",
          "url":"./audio/016.mp3",
-         "source": "TPO Uganda",
-         "source_url": "https://tpoug.org/"
+         "source": "Shetechtive Uganda",
+         "source_url": "https://www.shetechtive.org/"
       },
       {
-         "name":"Nyinza'ntya okuziyiza okugwamu omusayi ?",
+         "name":"Engeri entuufu eya okukozesaamu kondomu oba obupiira - step 8",
          "url":"./audio/017.mp3",
-         "source": "TPO Uganda",
-         "source_url": "https://tpoug.org/"
+         "source": "Shetechtive Uganda",
+         "source_url": "https://www.shetechtive.org/"
       },
       {
-         "name":"Beri beri kye'ki ? ",
+         "name":"Engeri entuufu eya okukozesaamu kondomu oba obupiira - step 9",
          "url":"./audio/018.mp3",
-         "source": "TPO Uganda",
-         "source_url": "https://tpoug.org/"
+         "source": "Shetechtive Uganda",
+         "source_url": "https://www.shetechtive.org/"
       },
       {
-         "name":"Nyinza'ntya okuziyiza beri beri ?",
+         "name":"Engeri entuufu eya okukozesaamu kondomu oba obupiira - step 10",
          "url":"./audio/019.mp3",
-         "source": "TPO Uganda",
-         "source_url": "https://tpoug.org/"
+         "source": "Shetechtive Uganda",
+         "source_url": "https://www.shetechtive.org/"
       },
       {
-         "name":"Buzibu ki obulala obuva ku kulya emmere enyingi oba okulya ebika by'emmere ebi kyamu ?",
+         "name":"20.	Nkola ntya okwewala embuto ?",
          "url":"./audio/020.mp3",
-         "source": "TPO Uganda",
-         "source_url": "https://tpoug.org/"
+         "source": "Shetechtive Uganda",
+         "source_url": "https://www.shetechtive.org/"
       },
       {
-         "name":"Obulwadde bwa sukali ky'eki ?",
+         "name":"Akaweta kakola katya ?",
          "url":"./audio/021.mp3",
-         "source": "TPO Uganda",
-         "source_url": "https://tpoug.org/"
+         "source": "Shetechtive Uganda",
+         "source_url": "https://www.shetechtive.org/"
       },
       {
-         "name":"Nsobola'ntya okufuga sukali ? ",
+         "name":"22.	Empeke eya amangu oba jiyite emergency contraceptive pill ekola ntya okuziyiza embuto ? ",
          "url":"./audio/022.mp3",
-         "source": "TPO Uganda",
-         "source_url": "https://tpoug.org/"
+         "source": "Shetechtive Uganda",
+         "source_url": "https://www.shetechtive.org/"
       },
       {
-         "name":"Kiki kyenina okukola okulongosa endya yange ?",
+         "name":"Empeke zomira buligyo ziziyiza ntya okufuna olubuto ?",
          "url":"./audio/023.mp3",
-         "source": "TPO Uganda",
-         "source_url": "https://tpoug.org/"
+         "source": "Shetechtive Uganda",
+         "source_url": "https://www.shetechtive.org/"
       },
       {
-         "name":"Oziyiza otya obuzibu mu kukula kwa'abaana, nga kuva ku endya embi ? ",
+         "name":"Wa wosobola okudukirira  ? ",
          "url":"./audio/024.mp3",
-         "source": "TPO Uganda",
-         "source_url": "https://tpoug.org/"
+         "source": "Shetechtive Uganda",
+         "source_url": "https://www.shetechtive.org/"
       },
       {
-         "name":"Ndisa'ntya abana abato, abasusiza emyezi 6 ?",
+         "name":"Kubira omubaka waffe",
          "url":"./audio/025.mp3",
-         "source": "TPO Uganda",
-         "source_url": "https://tpoug.org/"
+         "source": "Shetechtive Uganda",
+         "source_url": "https://www.shetechtive.org/"
       },
       {
-         "name":"Emeere ki ennungi ku baana abato, abasuka emyezi 6 ?",
+         "name":"Wa wosobola okudukirira ?",
          "url":"./audio/026.mp3",
-         "source": "TPO Uganda",
-         "source_url": "https://tpoug.org/"
+         "source": "Shetechtive Uganda",
+         "source_url": "https://www.shetechtive.org/"
       },
       {
-         "name":"Lwaki ekirisa kya Vitamin A kyamugaso ku mwana wange ?",
+         "name":"Kubira omubaka waffe ",
          "url":"./audio/027.mp3",
-         "source": "TPO Uganda",
-         "source_url": "https://tpoug.org/"
+         "source": "Shetechtive Uganda",
+         "source_url": "https://www.shetechtive.org/"
       },
       {
-         "name":"Lwaki iron wa mugaso ku mwana wange ?",
+         "name":"Kubira omubaka waffe",
          "url":"./audio/028.mp3",
-         "source": "TPO Uganda",
-         "source_url": "https://tpoug.org/"
+         "source": "Shetechtive Uganda",
+         "source_url": "https://www.shetechtive.org/"
       },
       {
-         "name":"Lwaki iodine wa mugaso ku mwana wange ?",
+         "name":" Wa wosobola okudukirira ",
          "url":"./audio/029.mp3",
-         "source": "TPO Uganda",
-         "source_url": "https://tpoug.org/"
+         "source": "Shetechtive Uganda",
+         "source_url": "https://www.shetechtive.org/"
       },
       
    ]
