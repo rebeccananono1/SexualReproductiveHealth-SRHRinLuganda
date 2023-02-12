@@ -8,9 +8,10 @@ Amplitude.init({
       },
 
       {
+         "name":"Obukulu bwa obubaka ",
          "url":"./audio/002.mp3",
-         "source": "TPO Uganda",
-         "source_url": "https://tpoug.org/"
+         "source": "Shetechtive Uganda",
+         "source_url": "https://www.shetechtive.org/"
       },
       {
          "name":"Obulamu obulungi bulabika butya ? ",
